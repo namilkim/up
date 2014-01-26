@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Namil Kim"
-description: "??"
 tagline: CV
-
 ---
 {% include JB/setup %}
 
