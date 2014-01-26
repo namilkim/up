@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Namil's Page
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 
