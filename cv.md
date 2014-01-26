@@ -10,7 +10,9 @@ tagline: CV
 
 ## Education
 
-### M.Sc. Universität Bonn
-### B.Com. University of Toronto
+
+* M.Sc. Universität Bonn
+
+* B.Com. University of Toronto
 
 
