@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "CV"
-description: ""
+title: "Namil Kim's CV"
+description: "??"
+
 ---
 {% include JB/setup %}
 
