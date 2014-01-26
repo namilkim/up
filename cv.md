@@ -1,9 +1,16 @@
 ---
 layout: page
-title: "Namil Kim's CV"
+title: "Namil Kim"
 description: "??"
+tagline: CV
 
 ---
 {% include JB/setup %}
 
-Namil Kim
+
+## Education
+
+### M.Sc. Universität Bonn
+### B.Com. University of Toronto
+
+
