@@ -18,11 +18,10 @@ South Korea
 
 ## Education
 
-2010-2016 (expected)
-:   **Ph.D**; KAIST 
+* present Ph.D KAIST 
  
-* M.Sc. Universität Bonn
+* 2010 M.Sc. Universität Bonn
 
-* B.Com. University of Toronto
+* 2008 B.Com. University of Toronto
 
 
