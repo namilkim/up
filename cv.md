@@ -6,14 +6,7 @@ tagline: "CV"
 {% include JB/setup %}
 
 
- 
--------------------     ----------------------------
-1 MyAddress                    namil.kim@kaist.ac.kr
 
-MyTown 1000                                        @
-
-South Korea                        
--------------------     ----------------------------
  
 
 ## Education
@@ -25,3 +18,6 @@ South Korea
 * 2008 B.Com. University of Toronto
 
 
+## Publication
+
+* [Dynamic patterns of industry convergence: Evidence from a large amount of unstructured data](http://www.sciencedirect.com/science/article/pii/S0048733315000220), _Research Policy_, forthcoming
