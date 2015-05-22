@@ -5,18 +5,32 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Namil Kim
+tagline:             ''
+description:         'Namils homepage'
+url:                 http://namilkim.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Namil Kim
+  url:               
+  email:             namil.kim@tuck.dartmouth.edu
 
 # Custom vars
 version:             1.0.0
+
+github:
+  repo:           github.com/namilkim/namilkim.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  CV: '/cv/'
+  Archive: '/archive/'
+
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+#gems:
+#  - jekyll-redirect-from
