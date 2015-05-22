@@ -3,6 +3,10 @@ layout: page
 title: "Namil Kim"
 tagline: "CV"
 ---
+<<<<<<< HEAD
+=======
+{% include JB/setup %}
+>>>>>>> 91b01278277048c71566afa6ef8fb5b4291161f1
 
 
 
