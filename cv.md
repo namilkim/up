@@ -10,11 +10,11 @@ tagline: "CV"
 
 ## Education
 
-* present Ph.D KAIST
+* present  Ph.D KAIST
 
-* 2010 M.Sc. Universität Bonn
+* 2010     M.Sc. Universität Bonn
 
-* 2008 B.Com. University of Toronto
+* 2008     B.Com. University of Toronto
 
 
 ## Other Position
