@@ -17,7 +17,7 @@ tagline: "CV"
 * 2008     B.Com. University of Toronto
 
 
-## Other Position
+## Other Positions
 * March 2015 – February 2016 Visiting Scholar at Tuck School of Business at Dartmouth College
 
 
