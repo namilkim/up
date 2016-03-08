@@ -6,15 +6,19 @@ tagline: "CV"
 
 
 
- 
+
 
 ## Education
 
-* present Ph.D KAIST 
- 
+* present Ph.D KAIST
+
 * 2010 M.Sc. Universität Bonn
 
 * 2008 B.Com. University of Toronto
+
+
+## Other Position
+* March 2015 – February 2016 Visiting Scholar at Tuck School of Business at Dartmouth College
 
 
 ## Publication

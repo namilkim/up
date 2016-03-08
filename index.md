@@ -6,6 +6,6 @@ tagline: ""
 
 
 
-Currently, visiting student at Tuck School of Business at Dartmouth
+Currently, PhD candidate in Business and Technology Management at KAIST
 
-contact me via email: [namil.kim@tuck.dartmouth.edu](namil.kim@tuck.dartmouth.edu)
+contact me via email: [namil.kim@kaist.ac.kr](namil.kim@kaist.ac.kr)
