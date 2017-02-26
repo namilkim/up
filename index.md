@@ -6,6 +6,6 @@ tagline: ""
 
 
 
-Currently, I am a PhD candidate in Business and Technology Management at KAIST
+Currently, I am a senior researcher at the School of Business and Technology Management, KAIST
 
 contact me via email: [namil.kim@kaist.ac.kr](namil.kim@kaist.ac.kr)
