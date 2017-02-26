@@ -5,12 +5,13 @@ tagline: "CV"
 ---
 
 
-
+## Current Positions
+* Sep 2016 – Present Senior Researcher at the School of Business and Technology Management, KAIST
 
 
 ## Education
 
-* present  Ph.D KAIST
+* 2016    Ph.D KAIST
 
 * 2010     M.Sc. Universität Bonn
 
