@@ -23,6 +23,8 @@ version:             1.0.0
 github:
   repo:           github.com/namilkim/namilkim.github.io
 
+g_analytics: "UA-100912392-1"
+
 # This is the list of pages to include in the header of the website.
 pages_list:
   CV: '/cv/'
