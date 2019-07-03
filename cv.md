@@ -5,8 +5,10 @@ tagline: "CV"
 ---
 
 
-## Current Positions
-* Sep 2016 – Present Senior Researcher at the School of Business and Technology Management, College of Business, KAIST
+## Academic Positions
+* Jun 2019 – Present Associate Professor at the School of Management, Harbin Institute of Technology
+
+* Sep 2016 – May 2019 Senior Researcher at the School of Business and Technology Management, College of Business, KAIST
 
 
 ## Education

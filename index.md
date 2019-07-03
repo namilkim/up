@@ -6,6 +6,6 @@ tagline: ""
 
 
 
-Currently, I am a senior researcher at the School of Business and Technology Management, College of Business, KAIST
+Currently, I am an associate professor at the School of Management, Harbin Institute of Technology
 
-contact me via email: <namil.kim@kaist.ac.kr>
+contact me via email: <namil.kim@hit.edu.cn>
