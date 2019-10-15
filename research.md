@@ -7,6 +7,8 @@ tagline: "research"
 
 
 ## Publication
+* Concentrate or Disperse? The Relationship between Major Customer Concentration and Supplier Profitability and the Moderating Role of Insider Ownership with K. Kwak (forthcoming), _Journal of Business Research_
+
 * [Are social entrepreneurs more risk-averse?](https://www.tandfonline.com/doi/abs/10.1080/13504851.2018.1524122) with S. Choi & W. Kim (2019), _Applied Economics Letters_, 26 (11), 933-937
 
 * [Do your social media lead you to make social deal purchases? Consumer-generated social referrals for sales via social commerce](https://www.sciencedirect.com/science/article/pii/S0268401217300427) with W. Kim (2018), _International Journal of Information Management_, 39 (April), 38-48
