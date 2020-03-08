@@ -26,7 +26,7 @@ tagline: "CV"
 
 ## Seclected Publications
 
-* [Concentrate or Disperse? The Relationship between Major Customer Concentration and Supplier Profitability and the Moderating Role of Insider Ownership](https://www.sciencedirect.com/science/article/abs/pii/S0148296319305570) with K. Kwak (forthcoming), _Journal of Business Research_
+* [Concentrate or Disperse? The Relationship between Major Customer Concentration and Supplier Profitability and the Moderating Role of Insider Ownership](https://www.sciencedirect.com/science/article/abs/pii/S0148296319305570) with K. Kwak (2020), _Journal of Business Research_, 109 (March), 648-658
 
 * [Do your social media lead you to make social deal purchases? Consumer-generated social referrals for sales via social commerce](https://www.sciencedirect.com/science/article/pii/S0268401217300427) with W. Kim (2018), _International Journal of Information Management_, 39 (April), 38-48
 
