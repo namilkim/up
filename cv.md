@@ -13,14 +13,15 @@ tagline: "CV"
 
 ## Education
 
-* 2016    Ph.D KAIST
+* Aug 2016   Ph.D KAIST
 
-* 2010     M.Sc. Universität Bonn
+* Aug 2010   M.Sc. Universität Bonn
 
-* 2008     B.Com. University of Toronto
+* Jun 2008   B.Com. University of Toronto
 
 
-## Other Positions
+## Selected Academic Activities and Affiliations
+* Aug 2020 – Present Editorial Review Board at _Journal of Database Management_
 * Mar 2015 – Feb 2016 Visiting Scholar at Tuck School of Business at Dartmouth College
 
 
